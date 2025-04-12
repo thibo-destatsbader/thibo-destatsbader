@@ -3,15 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thomascrmbz&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thomascrmbz&hide_title=true&show_icons=true&count_private=true&theme=onedark" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=thibo-destatsbader&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-weld-delta-75.vercel.app/api?username=thibo-destatsbader&hide_title=true&show_icons=true&count_private=true&theme=onedark" height="150" alt="stats graph" />
 </div>
 
 <h2 align="left">⚡ My Software Stack</h2>
 
 #### Languages
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org)
 
 
